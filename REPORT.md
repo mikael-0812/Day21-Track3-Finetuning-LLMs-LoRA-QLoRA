@@ -4,6 +4,7 @@
 **MSSV**: `2A202600171`  
 **Ngày nộp**: `07.05.2026`  
 **Submission option**: `Tesla T4`
+**Model link** : `https://huggingface.co/mikael0812/LoRA_lab21`
 
 ## 1. Bối cảnh và Cơ sở Lý thuyết
 
